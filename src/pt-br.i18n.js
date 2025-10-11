@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   'menu.file': {
     'New Window': 'Nova Janela',
     'File': '&Arquivo',
