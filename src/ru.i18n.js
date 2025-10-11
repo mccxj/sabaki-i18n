@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   'menu.file': {
     'New Window': 'Создать окно',
     'File': 'Файл',
